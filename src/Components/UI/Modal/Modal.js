@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './Modal.module.css';
-import Aux from '../../../hoc/Aux';
+import Aux from '../../../hoc/auxiliary/Auxiliary';
 import Backdrop from '../Backdrop/Backdrop';
 
 const modal = React.memo((props) => {
