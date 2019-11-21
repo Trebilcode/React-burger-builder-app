@@ -6,7 +6,7 @@ If you're not signed up when you want to order, the button will take you to the 
 
 I learned a lot with this course, concepts such as Routing, code splitting or lazy loading, Redux, local storage etc.
 
-##TODOS
+## TODOS
 
 Need to update the class based components to functional ones that use react hooks.
 
