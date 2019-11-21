@@ -1,8 +1,14 @@
+## Project description
+
 This app allows you to build a css made burger and be able to order it. 
 
 If you're not signed up when you want to order, the button will take you to the sign up module. If you are, it'll resume your order and will take you to a form where you can share your data, which will be stored in a firebase database along with your order's ingredients.
 
 I learned a lot with this course, concepts such as Routing, code splitting or lazy loading, Redux, local storage etc.
+
+##TODOS
+
+Need to update the class based components to functional ones that use react hooks.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
