@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/React-burger-builder-app/static/css/main.dd1853f1.chunk.css",
+    "main.js": "/React-burger-builder-app/static/js/main.651e94c3.chunk.js",
+    "main.js.map": "/React-burger-builder-app/static/js/main.651e94c3.chunk.js.map",
+    "runtime~main.js": "/React-burger-builder-app/static/js/runtime~main.6781794e.js",
+    "runtime~main.js.map": "/React-burger-builder-app/static/js/runtime~main.6781794e.js.map",
+    "static/js/2.5b788de6.chunk.js": "/React-burger-builder-app/static/js/2.5b788de6.chunk.js",
+    "static/js/2.5b788de6.chunk.js.map": "/React-burger-builder-app/static/js/2.5b788de6.chunk.js.map",
+    "static/css/3.db52c36c.chunk.css": "/React-burger-builder-app/static/css/3.db52c36c.chunk.css",
+    "static/js/3.8e9a2a94.chunk.js": "/React-burger-builder-app/static/js/3.8e9a2a94.chunk.js",
+    "static/js/3.8e9a2a94.chunk.js.map": "/React-burger-builder-app/static/js/3.8e9a2a94.chunk.js.map",
+    "static/css/4.d9c13aa2.chunk.css": "/React-burger-builder-app/static/css/4.d9c13aa2.chunk.css",
+    "static/js/4.a2ac4891.chunk.js": "/React-burger-builder-app/static/js/4.a2ac4891.chunk.js",
+    "static/js/4.a2ac4891.chunk.js.map": "/React-burger-builder-app/static/js/4.a2ac4891.chunk.js.map",
+    "static/css/5.74fdd196.chunk.css": "/React-burger-builder-app/static/css/5.74fdd196.chunk.css",
+    "static/js/5.f02dd718.chunk.js": "/React-burger-builder-app/static/js/5.f02dd718.chunk.js",
+    "static/js/5.f02dd718.chunk.js.map": "/React-burger-builder-app/static/js/5.f02dd718.chunk.js.map",
+    "index.html": "/React-burger-builder-app/index.html",
+    "precache-manifest.1353ad20d6b10d522f6cde711421f4e8.js": "/React-burger-builder-app/precache-manifest.1353ad20d6b10d522f6cde711421f4e8.js",
+    "service-worker.js": "/React-burger-builder-app/service-worker.js",
+    "static/css/3.db52c36c.chunk.css.map": "/React-burger-builder-app/static/css/3.db52c36c.chunk.css.map",
+    "static/css/4.d9c13aa2.chunk.css.map": "/React-burger-builder-app/static/css/4.d9c13aa2.chunk.css.map",
+    "static/css/5.74fdd196.chunk.css.map": "/React-burger-builder-app/static/css/5.74fdd196.chunk.css.map",
+    "static/css/main.dd1853f1.chunk.css.map": "/React-burger-builder-app/static/css/main.dd1853f1.chunk.css.map",
+    "static/media/burger-logo.png": "/React-burger-builder-app/static/media/burger-logo.b8503d26.png"
+  }
+}
